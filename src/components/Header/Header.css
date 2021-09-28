@@ -1,0 +1,15 @@
+.Header {
+    width: 100vw;
+    height: 10vh;
+    background-color: royalblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    color: white;
+    font-family: 'Reenie Beanie';
+    font-size: 80px;
+}
+

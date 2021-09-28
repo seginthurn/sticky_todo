@@ -1,0 +1,29 @@
+.StickyForm{
+    width: 100vw;
+    height: 10vh;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+button {
+    margin: 10px;
+    border: none;
+    background-color: royalblue;
+    color: white;
+    width: 100px;
+    height: 25px;
+}
+
+select {
+    margin: 10px;
+    width: 100px;
+    height: 25px;
+}
+
+input {
+    margin: 10px;
+    width: 500px;
+    height: 25px;
+}

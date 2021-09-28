@@ -1,0 +1,27 @@
+.App{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 10px;
+}
+
+body{
+  background-color: whitesmoke;
+}
+
+.task-done-header{
+  margin-top: 100px;
+  font-family: 'Reenie Beanie';
+  color: green;
+  font-size: 80px;
+  
+}
+
+.new-task-header{
+  margin-top: 100px;
+  font-family: 'Reenie Beanie';
+  color: black;
+  font-size: 80px;
+  
+}
